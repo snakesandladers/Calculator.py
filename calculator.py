@@ -1,6 +1,5 @@
 def add(x,y):
- #this adds the given 2 numbers
- return x + y 
+     return x + y 
 def substract(x,y):
      return x - y
 def multiplication(x,y):
@@ -28,3 +27,8 @@ elif choice=='4':
     print(num1,"/",num2,"=",division(num1,num2))
 else:
     print("invalid input")
+  
+  output:
+   enter first number :1
+enter second number:5
+1 + 5 = 6
